@@ -1,4 +1,4 @@
-# Pusula_Mertcan_Eken
+# Mertcan Eken mertelektro1@gmail.com
 Bu proje, veri analizi ve keşfi (EDA) alanında bir uygulama olarak hazırlanmıştır. Excel formatındaki bir veri seti, CSV formatına dönüştürülmüş ve eksik veriler doldurulmuştur. EDA aşamasında, Python programlama dili kullanılarak veri setinin yapısı, değişken türleri ve olası anormallikler analiz edilmiştir.
 
 Kullanılan Kütüphaneler
